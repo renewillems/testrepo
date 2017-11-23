@@ -18,10 +18,19 @@ namespace TC_project
       Assert.AreEqual(2, 2);
     }
 
+    [ClassInitialize]
+    public static void TestClassInitialize(TestContext context)
+    {
+      var sad = context.Properties["webAppUrl"].ToString();
+      if (sad != "asdfasd") Console.WriteLine("abc");
+    }
+
     [TestMethod]
     public void TestMethod3()
     {
-      Assert.AreEqual(3, 2);
+      Assert.AreEqual(3, 3);
+      Console.WriteLine(AppDomain.CurrentDomain.SetupInformation.ApplicationBase.ToString());
+
     }
 
   }

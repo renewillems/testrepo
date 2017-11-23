@@ -1,0 +1,13 @@
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\TC project.dll.config
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\TC project.dll
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\TC project.pdb
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rwillems\Documents\testrepo\TC project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rwillems\Documents\testrepo\TC project\obj\Debug\TC project.csproj.CoreCompileInputs.cache
+C:\Users\rwillems\Documents\testrepo\TC project\obj\Debug\TC project.dll
+C:\Users\rwillems\Documents\testrepo\TC project\obj\Debug\TC project.pdb
