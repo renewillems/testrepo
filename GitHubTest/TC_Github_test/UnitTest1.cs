@@ -9,7 +9,13 @@ namespace TC_Github_test
     [TestMethod]
     public void TestMethod1()
     {
-      Assert.AreEqual(6,6);
+      Assert.AreEqual(6, 6);
+    }
+
+    [TestMethod]
+    public void TestMethod2()
+    {
+      Assert.AreEqual(8, 8);
     }
   }
 }
