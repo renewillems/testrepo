@@ -28,6 +28,7 @@ namespace TC_project
     [TestMethod]
     public void TestMethod3()
     {
+      //feature in feature branch
       Assert.AreEqual(3, 3);
       Console.WriteLine(AppDomain.CurrentDomain.SetupInformation.ApplicationBase.ToString());
 
