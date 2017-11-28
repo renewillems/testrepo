@@ -23,5 +23,11 @@ namespace TC_Github_test
     {
       Assert.AreEqual(9, 9);
     }
+
+    [TestMethod]
+    public void TestMethod4()
+    {
+      Assert.AreEqual(10, 10);
+    }
   }
 }
