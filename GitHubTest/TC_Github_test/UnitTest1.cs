@@ -27,7 +27,7 @@ namespace TC_Github_test
     [TestMethod]
     public void TestMethod4()
     {
-      Assert.AreEqual(26, 26);
+      Assert.AreEqual(30, 30);
     }
   }
 }
