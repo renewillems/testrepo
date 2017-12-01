@@ -13,7 +13,6 @@ namespace TC_Github_test
     public void TestMethod1a()
     {
       Assert.AreEqual(1, 1);
-      Thread.Sleep(1000);
     }
 
     [TestCategory("Testset_001")]
@@ -21,7 +20,6 @@ namespace TC_Github_test
     public void TestMethod1b()
     {
       Assert.AreEqual(1, 1);
-      Thread.Sleep(1000);
     }
 
     //2
@@ -31,7 +29,6 @@ namespace TC_Github_test
     public void TestMethod2a()
     {
       Assert.AreEqual(2, 2);
-      Thread.Sleep(1000);
     }
 
     [TestCategory("Testset_002")]
@@ -39,7 +36,6 @@ namespace TC_Github_test
     public void TestMethod2b()
     {
       Assert.AreEqual(2, 2);
-      Thread.Sleep(1000);
     }
 
     //3
@@ -49,7 +45,6 @@ namespace TC_Github_test
     public void TestMethod3a()
     {
       Assert.AreEqual(3, 3);
-      Thread.Sleep(1000);
     }
 
     [TestCategory("Testset_003")]
@@ -57,7 +52,6 @@ namespace TC_Github_test
     public void TestMethod3b()
     {
       Assert.AreEqual(3, 3);
-      Thread.Sleep(1000);
     }
 
     //4
@@ -67,7 +61,6 @@ namespace TC_Github_test
     public void TestMethod4a()
     {
       Assert.AreEqual(4, 4);
-      Thread.Sleep(1000);
     }
 
     [TestCategory("Testset_004")]
@@ -75,7 +68,6 @@ namespace TC_Github_test
     public void TestMethod4b()
     {
       Assert.AreEqual(4, 4);
-      Thread.Sleep(1000);
     }
   }
 }
