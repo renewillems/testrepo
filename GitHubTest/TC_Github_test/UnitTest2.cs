@@ -8,7 +8,7 @@ namespace TC_Github_test
     [Fact]
     public static void XUnitTest()
     {
-      Assert.Equal(5, 5);
+      Assert.Equal(5, 6);
     }
   }
 }
