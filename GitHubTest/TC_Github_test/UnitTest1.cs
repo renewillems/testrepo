@@ -8,14 +8,14 @@ namespace TC_Github_test
   public class UnitTest1
   {
     //1
-    [TestCategory("Testset_001")]
+    [TestCategory("Category [MSTest]")]
     [TestMethod()]
     public void TestMethod1a()
     {
       Assert.AreEqual(1, 1);
     }
 
-    [TestCategory("Testset_001")]
+    [TestCategory("Category [MSTest]")]
     [TestMethod()]
     public void TestMethod1b()
     {
